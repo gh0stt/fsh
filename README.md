@@ -1,0 +1,3 @@
+# fsh
+fsh (Fucking Shell)!
+Pretty much the most fucked up shell ever...
